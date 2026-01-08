@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Test Website",
-  url: "https://tadpoles.neocities.org/",
+  url: "https://sozzledfrood.github.io/test_website1/",
   description: `im just testing`
 }
 
